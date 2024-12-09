@@ -18,6 +18,9 @@ func BigBark() string {
 func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
-func form11() string {
+func Form11() string {
 	return "I am from v1.1.0"
+}
+func From12() string {
+	return ("I'm from version 1.2.0")
 }
